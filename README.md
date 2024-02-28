@@ -14,7 +14,7 @@ This repository, named "MySQL Assignment," is dedicated to exploring and queryin
 - **Task 2: Find the population and average life expectancy for people in Argentina (ARG).**
 - **Task 3: Use ORDER BY and LIMIT to identify the country with the highest life expectancy.**
 - **Task 4: Select 25 cities worldwide that start with the letter 'F' in a single SQL query.**
-- **Task 5: Display columns Id, Name, Population from the city table, limiting results to the first 10 rows.**
+- **Task 5: Display columns Id, Name, and Population from the city table, limiting results to the first 10 rows.**
 - **Task 6: Find cities from the city table with a population larger than 2000000.**
 - **Task 7: Retrieve all city names from the city table with names starting with the "Be" prefix.**
 - **Task 8: Find cities from the city table with a population between 500000 and 1000000.**
@@ -27,8 +27,7 @@ This repository, named "MySQL Assignment," is dedicated to exploring and queryin
 The dataset is sourced from MySQL, and the following tools have been used for managing and querying the data:
 
 MySQL Database
-[Your Preferred Programming Language or Framework]
-[Any Additional Tools]
+
 
 ## How to Use ##
 Download the Dataset:
